@@ -1,7 +1,7 @@
 /*
  * OperatingSystem.h
  *
- * Author: Mark Swoope
+ * Author: Protovision
  * Description:
  * When load is called, the operating system will
  * make the assembler assemble all the .s files in the 
